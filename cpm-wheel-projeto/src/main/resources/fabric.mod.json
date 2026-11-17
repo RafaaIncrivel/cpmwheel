@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "cpm_wheel",
+  "version": "${version}",
+  "name": "CPM Wheel",
+  "description": "Roda de toggles para o Customizable Player Models. Segure a tecla, arraste e solte.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.cpmwheel.CpmWheelClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric-api": "*",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "cpm": "*"
+  }
+}

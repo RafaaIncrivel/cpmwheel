@@ -1,0 +1,14 @@
+{
+  "key.cpm_wheel.open": "Abrir roda de toggles",
+  "key.categories.cpm_wheel": "CPM Wheel",
+  "cpm_wheel.reset": "Resetar",
+  "cpm_wheel.back": "Voltar",
+  "cpm_wheel.none": "Nenhum",
+  "cpm_wheel.on": "LIGADO",
+  "cpm_wheel.off": "DESLIGADO",
+  "cpm_wheel.nothing": "CPM Wheel: nenhum toggle encontrado no seu modelo atual.",
+  "cpm_wheel.error": "CPM Wheel: não consegui ler o menu do CPM (versão incompatível?). Veja o log.",
+  "cpm_wheel.hint_hold": "Solte para escolher  |  Rodinha: página",
+  "cpm_wheel.hint_click": "Clique para escolher  |  Esc: fechar  |  Rodinha: página",
+  "cpm_wheel.page": "Página %s/%s"
+}
